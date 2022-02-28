@@ -1,4 +1,8 @@
-# Sample Output
+buddychat
+=========
+Sample output from BuddyChat:
+
+```
 Please type something for your buddies and press enter!
 Or, you can type:
 stop, to disable chat
@@ -25,3 +29,4 @@ buddy1: the sky sounds bad!
 buddy3: the sky sounds bad!
 buddy2: the sky sounds good!
 -- End server chat log --
+
