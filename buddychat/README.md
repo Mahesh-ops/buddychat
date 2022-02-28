@@ -29,5 +29,4 @@ buddy1: the sky sounds bad!
 buddy3: the sky sounds bad!
 buddy2: the sky sounds good!
 -- End server chat log --
-[INFO] [06/30/2013 02:24:39.345] [default-akka.actor.default-dispatcher-7] [akka://default/user/manager] Chat shutting down
-```
+
